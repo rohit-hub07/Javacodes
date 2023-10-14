@@ -1,1 +1,1 @@
-printArray(Array);
+import java.util.Collection;
