@@ -1,7 +1,7 @@
 # Javacodes
 
-Simple codes
+Welcome 
 
 
 # hello 
-kya bolte hai public 
+Your life is a lie
